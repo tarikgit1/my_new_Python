@@ -13,12 +13,6 @@ print(output)
 #provide the tokem
 
 
-# repo_url = "https://github.com/tarikgit1/repo.git"
-
-# clone_url = "D:/python development/repo"
-
-# # token = "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"
-
 # # g = Github(token)
 
 # # user = g.get_user()
